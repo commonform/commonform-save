@@ -1,0 +1,8 @@
+{
+  "name": "commonform-save",
+  "version": "0.0.0",
+  "description": "save forms to api.commonform.org",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "commonform/commonform-save",
+  "license": "Apache-2.0"
+}
